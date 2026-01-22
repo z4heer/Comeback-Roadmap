@@ -5,7 +5,6 @@
 ### Core identity statement (use everywhere)
 
 > *“I am a backend-focused Python engineer who builds reliable APIs, data-driven services, and production-ready systems with strong database and system-design awareness.”*
-
 ---
 
 ## 🧱 WHAT THIS ROLE ACTUALLY OPERATES ON (MATERIAL VIEW)
