@@ -1,10 +1,3 @@
-This is a **very thoughtful question**, and I’m glad you asked it **before committing**.
-Let’s do a **clear, no-hype comparison** and then I’ll give you a **direct recommendation tailored to YOU (51+, comeback, introvert, stability-first)**.
-
-I’ll keep it **plain English**, with **bold technical terms**.
-
----
-
 # jBPM Backend vs Python Backend
 
 ### Which is the RIGHT choice for you now?
