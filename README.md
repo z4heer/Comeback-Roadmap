@@ -6,6 +6,28 @@ What problems you solve?
 
 ###
 ---
+# Career Comeback – Python Backend Engineer
+
+This repository documents my structured return to IT after a career break.
+
+## What This Repo Contains
+- Career decisions and reasoning
+- Python backend roadmap
+- Workflow-oriented thinking
+- 90-day comeback plan
+- AI-assisted learning templates
+
+## Why This Exists
+- Personal reference
+- Interview discussion support
+- Long-term learning asset
+
+## Guiding Principle
+Stability first. Depth over noise.
+
+---
+###
+---
 senior-backend-engineer-portfolio/
 │
 ├── README.md
